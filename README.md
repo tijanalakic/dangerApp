@@ -1,4 +1,6 @@
 # Danger Application
+#System for sharing information on potential hazards
+
 The system consists of several parts: main application, administrator application, and assistance system. The
 main application is implemented with help of JSP M2, HTML5, JS, AJAX, MySQL. It consumes several RESTful APIs
 for getting information about countries, regions, and weather. Also, the main app consumes some RSS feed for
