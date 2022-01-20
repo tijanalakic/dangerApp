@@ -1,5 +1,13 @@
 # Danger Application
-Student project JSP application
+The system consists of several parts: main application, administrator application, and assistance system. The
+main application is implemented with help of JSP M2, HTML5, JS, AJAX, MySQL. It consumes several RESTful APIs
+for getting information about countries, regions, and weather. Also, the main app consumes some RSS feed for
+getting the news. It's a Facebook-like application but for informing about potential hazards. The administrator
+application is used to monitor other parts of the system. It uses the same database as the main application and
+it's implemented with JSF. The assistance system is used to create calls to help citizens in case of potential danger.
+This system consists of a JSF application and a RESTful service. Calls for help from other applications are available
+through the RESTful service. The database application model is implemented using the DAO pattern for data
+access. The MVC architecture is used to implement this system.
 
 Potrebno je napraviti sistem koji će omogućiti lakše dijeljenje informacija o potencijalnim opasnostima. Sistem se sastoji iz nekoliko dijelova:
 
