@@ -9,6 +9,7 @@ This system consists of a JSF application and a RESTful service. Calls for help 
 through the RESTful service. The database application model is implemented using the DAO pattern for data
 access. The MVC architecture is used to implement this system.
 
+*******************************************
 Potrebno je napraviti sistem koji će omogućiti lakše dijeljenje informacija o potencijalnim opasnostima. Sistem se sastoji iz nekoliko dijelova:
 
 Glavna aplikacija
